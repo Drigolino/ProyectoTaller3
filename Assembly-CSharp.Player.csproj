@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Funtion_attack.cs" />
     <Compile Include="Assets\Scripts\Funtion_move.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Prueba.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -676,10 +677,6 @@
     <ProjectReference Include="UnityEngine.SpatialTracking.csproj">
       <Project>{83D671F5-C297-8D2B-0D17-91E33F3A9A1E}</Project>
       <Name>UnityEngine.SpatialTracking</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{4B8FFBBD-4A79-9338-14F5-5894BCB13B44}</Project>
-      <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
       <Project>{0114FB17-F504-7DDC-3BC7-F3986C9A01CD}</Project>

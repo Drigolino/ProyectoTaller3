@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Funtion_attack.cs" />
     <Compile Include="Assets\Scripts\Funtion_move.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
     <Compile Include="Assets\Scripts\Prueba.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -636,10 +637,6 @@
       <Project>{C189110E-8310-1215-E47C-8C22735996EB}</Project>
       <Name>UnityEditor.Purchasing</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
-      <Project>{00121107-4BBD-31A9-3723-BDC1BE50E634}</Project>
-      <Name>Unity.TextMeshPro.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{C42B71F7-5162-96D1-4179-A97FF1977C74}</Project>
       <Name>UnityEngine.UI</Name>
@@ -695,10 +692,6 @@
     <ProjectReference Include="UnityEngine.Advertisements.Editor.csproj">
       <Project>{08744A33-BEB1-771B-D48C-6B58AB9322F8}</Project>
       <Name>UnityEngine.Advertisements.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{4B8FFBBD-4A79-9338-14F5-5894BCB13B44}</Project>
-      <Name>Unity.TextMeshPro</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Analytics.DataPrivacy.csproj">
       <Project>{0114FB17-F504-7DDC-3BC7-F3986C9A01CD}</Project>
