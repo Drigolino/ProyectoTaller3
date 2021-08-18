@@ -56,10 +56,7 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Funtion_attack.cs" />
-    <Compile Include="Assets\Scripts\Funtion_move.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\Prueba.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
